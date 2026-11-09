@@ -1,0 +1,6 @@
+{
+  "name": "Ajuda Cães de Rua - Doações",
+  "description": "Página oficial de doações e VSL para resgate e acolhimento de cães em situação de rua.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
